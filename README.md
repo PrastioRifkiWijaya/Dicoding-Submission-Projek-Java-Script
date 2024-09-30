@@ -4,13 +4,13 @@ This repository contains my submissions for the JavaScript project as part of th
 
 ## Table of Contents
 
-1. [Writing Comments](#01-writing-comments)
-2. [Code Style](#02-code-style)
-3. [Writing Tests](#03-writing-test)
-4. [Optional: Object-Oriented Programming (OOP)](#optional-04-oop)
-5. [Optional: Recursive Functions](#optional-05-recursive)
-6. [Optional: Full Coverage Testing](#optional-06-full-coverage-testing)
-7. [Optional: Real World Scenario](#optional-07-real-world-scenario)
+1. [Writing Comments](final-assessment/01-writing-comments)
+2. [Code Style](final-assessment/02-code-style)
+3. [Writing Tests](final-assessment/03-writing-test)
+4. [Optional: Object-Oriented Programming (OOP)](final-assessment/optional-04-oop)
+5. [Optional: Recursive Functions](final-assessment/optional-05-recursive)
+6. [Optional: Full Coverage Testing](final-assessment/optional-06-full-coverage-testing)
+7. [Optional: Real World Scenario](final-assessment/optional-07-real-world-scenario)
 
 ## 01 Writing Comments
 
